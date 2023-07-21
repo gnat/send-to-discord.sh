@@ -1,7 +1,6 @@
 # Why?
 Don't pull in a full docker container just to send a few messages.
 
-![image](https://github.com/gnat/send-to-discord/assets/24665/8d30f48a-71f2-4d66-8bb9-586705e01d2e)
 
 
 ## Script version (discord.sh)
@@ -35,3 +34,6 @@ discord_message "Deploying" "$GIT_SHA" "009900"
 ```
 
 Thanks for coming to my TED talk.
+
+
+![image](https://github.com/gnat/send-to-discord/assets/24665/8d30f48a-71f2-4d66-8bb9-586705e01d2e)
