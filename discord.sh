@@ -1,6 +1,4 @@
 #!/bin/bash
-set -euo pipefail
-
 TITLE=${1:-"Title"}
 MESSAGE=${2:-"Message"}
 COLOR=${3:-"999999"}
