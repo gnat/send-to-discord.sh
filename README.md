@@ -1,5 +1,5 @@
 # Why does this exist?
-Send messages to discord (.. no more Docker containers.. no more npm install.. no more bullshit..)
+Send messages to discord (.. no Docker containers.. no npm install.. no bullshit..)
 
 ## Shell script (discord.sh)
 ```bash
